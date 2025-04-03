@@ -83,7 +83,7 @@ Note that the command should be executed in the directory containing the environ
 
 Alternatively, the requirements can also be installed directly in a new conda environment: 
 ```
-conda create --name CytoCommunity pyhton=3.10.6
+conda create --name CytoCommunity python=3.10.6
 conda activate CytoCommunity
 conda install --yes --file requirements.txt
 ```
